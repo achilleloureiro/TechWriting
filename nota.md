@@ -1,4 +1,4 @@
-Ciao questa è uina nota markdown
+Ciao questa è una nota markdown
 
 questa è una lista semplice
 
